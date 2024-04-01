@@ -1,6 +1,8 @@
 {
-"name": "U0001",
-"description": "U0001stakepool",
-"ticker": "U0001",
-"homepage": "https://twitter.com/u0001stakepool"
+    "name": "U0001",
+    "description": "U0001stakepool",
+    "ticker": "U0001",
+    "homepage": "https://twitter.com/u0001stakepool",
+    "extended": "",
+    "nonce":"1712012108"
 }
